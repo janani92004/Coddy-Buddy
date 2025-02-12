@@ -1,7 +1,7 @@
 import google.generativeai as genai
 import streamlit as st
 
-api_key='AIzaSyCEgpFZZGIJB8BauDTb9LjDg4pzVZmM-Gw'
+api_key='GOOGLE API KEY'
 genai.configure(api_key=api_key)
 
 instructions=('''You are an AI coding assistant. 
